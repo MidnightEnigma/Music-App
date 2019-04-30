@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="41ff6b35-18eb-4a64-9929-fb1cd813e8fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhoto.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhoto.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1657765768">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="9" />
+          <entry key="properties" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="9" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Properties" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1425" />
+          <entry key="txt" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1425" />
+          <entry key="PLAIN_TEXT" value="85" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/test/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhotoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhoto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2329">
+              <caret line="141" column="54" selection-start-line="141" selection-start-column="54" selection-end-line="141" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/test/java/edu/illinois/cs/cs125/spring2019/mp3/ApiAppTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/edu/illinois/cs/cs125/spring2019/mp3/BuildConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/Tasks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1666">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/secret.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/email.txt" />
+        <option value="$PROJECT_DIR$/lib/src/test/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhotoTest.java" />
+        <option value="$PROJECT_DIR$/lib/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhoto.java" />
+        <option value="$PROJECT_DIR$/app/secret.properties" />
+        <option value="$PROJECT_DIR$/app/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="5" />
+    <option name="width" value="1335" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MP3-Spring2019-MidnightEnigma" type="58d84e3e:PackageViewProjectNode" />
+              <item name="app" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="MP3-Spring2019-MidnightEnigma" type="58d84e3e:PackageViewProjectNode" />
+              <item name="app" type="616d4139:PackageViewModuleNode" />
+              <item name="edu.illinois.cs.cs125.spring2019.mp3" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="MP3-Spring2019-MidnightEnigma" type="58d84e3e:PackageViewProjectNode" />
+              <item name="lib" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="MP3-Spring2019-MidnightEnigma" type="58d84e3e:PackageViewProjectNode" />
+              <item name="lib" type="616d4139:PackageViewModuleNode" />
+              <item name="edu.illinois.cs.cs125.spring2019.mp3.lib" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MP3-Spring2019-MidnightEnigma" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MP3-Spring2019-MidnightEnigma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MP3-Spring2019-MidnightEnigma" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MP3-Spring2019-MidnightEnigma" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MP3-Spring2019-MidnightEnigma" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Pixel_2_API_28" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.illinois.cs.cs125.spring2019.mp3.lib" />
+      <recent name="java" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Amanda\AndroidStudioProjects\MP3-Spring2019-MidnightEnigma\lib\src\main" />
+      <recent name="C:\Users\Amanda\AndroidStudioProjects\MP3-Spring2019-MidnightEnigma\lib\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android JUnit.Test App">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android JUnit.Test Library" />
+      <item itemvalue="Gradle.Grade" />
+      <item itemvalue="Android JUnit.Test App" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41ff6b35-18eb-4a64-9929-fb1cd813e8fc" name="Default Changelist" comment="" />
+      <created>1552319173899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552319173899</updated>
+    </task>
+    <task id="LOCAL-00001" summary="setting up">
+      <created>1552323546514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552323546514</updated>
+    </task>
+    <task id="LOCAL-00002" summary="height and width">
+      <created>1552531146315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552531146315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="format">
+      <created>1552531296638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552531296638</updated>
+    </task>
+    <task id="LOCAL-00004" summary="checkstyle">
+      <created>1552531427590</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552531427590</updated>
+    </task>
+    <task id="LOCAL-00005" summary="caption">
+      <created>1552534070443</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552534070443</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cat and dog">
+      <created>1552543403112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552543403112</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rick?">
+      <created>1552606527002</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1552606527002</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_Library - 2019.03.14 at 00h 20m 40s.xml">
+      <configuration name="Test Library" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_Library - 2019.03.14 at 01h 02m 47s.xml">
+      <configuration name="Test Library" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_Library - 2019.03.14 at 01h 03m 04s.xml">
+      <configuration name="Test Library" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_Library - 2019.03.14 at 18h 32m 11s.xml">
+      <configuration name="Test Library" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_Library - 2019.03.14 at 18h 34m 27s.xml">
+      <configuration name="Test Library" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_Library - 2019.03.14 at 18h 35m 19s.xml">
+      <configuration name="Test Library" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_App - 2019.03.14 at 18h 42m 39s.xml">
+      <configuration name="Test App" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_App - 2019.03.14 at 19h 18m 09s.xml">
+      <configuration name="Test App" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_App - 2019.03.14 at 19h 50m 26s.xml">
+      <configuration name="Test App" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Test_App - 2019.03.14 at 19h 51m 54s.xml">
+      <configuration name="Test App" configurationId="AndroidJUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2154948" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.32967034" />
+      <window_info anchor="bottom" id="Debug" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32967034" />
+      <window_info anchor="bottom" id="Logcat" order="9" />
+      <window_info anchor="bottom" id="Android Profiler" order="10" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setting up" />
+    <MESSAGE value="height and width" />
+    <MESSAGE value="format" />
+    <MESSAGE value="checkstyle" />
+    <MESSAGE value="caption" />
+    <MESSAGE value="cat and dog" />
+    <MESSAGE value="rick?" />
+    <option name="LAST_COMMIT_MESSAGE" value="rick?" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/email.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/java/util/concurrent/FutureTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/test/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhotoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/lib/RecognizePhoto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="141" column="54" selection-start-line="141" selection-start-column="54" selection-end-line="141" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/edu/illinois/cs/cs125/spring2019/mp3/ApiAppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/Tasks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1666">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/secret.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/edu/illinois/cs/cs125/spring2019/mp3/BuildConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/edu/illinois/cs/cs125/spring2019/mp3/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="68" column="50" lean-forward="true" selection-start-line="68" selection-start-column="50" selection-end-line="68" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
